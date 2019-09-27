@@ -1,0 +1,2 @@
+SET k 10
+DISCARD

@@ -1,0 +1,8 @@
+SET key 7
+GET key
+DEL key
+GET key
+INCR key
+GET key
+INCR key
+GET key

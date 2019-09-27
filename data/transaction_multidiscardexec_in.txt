@@ -1,0 +1,8 @@
+MULTI
+SET key1 12
+INCR key1
+DISCARD
+INCR key1
+INCR key1
+EXEC
+GET key1

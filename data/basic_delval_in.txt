@@ -1,0 +1,7 @@
+SET key1 7
+SET key2 7
+SET key3 8
+DELVALUE 7
+GET key1
+GET key2
+GET key3

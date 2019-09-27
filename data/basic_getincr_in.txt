@@ -1,0 +1,5 @@
+GET k
+INCR K
+GET k
+INCR k
+GET k
